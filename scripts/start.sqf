@@ -1,0 +1,13 @@
+execVM "scripts\peterporter.sqf";
+Null=["loot"]execVM "LootInit.sqf";
+execVM "scripts\spawnpointseter.sqf";
+execVM "scripts\gruppe.sqf";
+sleep 2;
+execVM "scripts\wploop.sqf";
+sleep 5;
+execVM "scripts\door.sqf";
+execVM "scripts\tp.sqf";
+sleep 1200;
+execVM "scripts\respawnende.sqf";
+execVM "scripts\ende.sqf";
+execVM "scripts\delwaffen.sqf";

@@ -1,0 +1,1 @@
+for "_i" from 1 to 20 do {[] execVM "scripts\wp.sqf";};
