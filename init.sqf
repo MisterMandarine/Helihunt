@@ -1,2 +1,2 @@
-execvm "killfeed.sqf";
-KillfeedR = false;
+execVM "registerKillfeed.sqf";
+

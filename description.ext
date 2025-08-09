@@ -1,2 +1,3 @@
 #include "defines.hpp"
+#include "killfeed_config.hpp"
 #include "killfeed.hpp"

@@ -1,0 +1,3 @@
+#define KILLFEED_DURATION 10
+#define KF_COLOR_SELF "#FF0000"
+#define KF_COLOR_KILL "#FFFFFF"
